@@ -1,0 +1,19 @@
+{
+    "name": "gabrielmiquelin/poo-php",
+    "description": "Curso do Tio Jobs sobre POO em PHP",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Gabrielmiquelin\\PooPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gabriel Ferreira Miquelin",
+            "email": "gabrielferreiramiquelin@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "symfony/var-dumper": "^6.3"
+    }
+}
